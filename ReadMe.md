@@ -2,4 +2,4 @@
 
 !["tools"](images/tools.png)
 
-Tooling and practical applications for doing a range of task in relatively high speed 
+Tooling and practical applications for doing a range of task in definitive high speed 
