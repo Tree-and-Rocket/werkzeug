@@ -2,4 +2,4 @@
 
 !["tools"](images/tools.png)
 
-Tooling and practical applications for doing a range of tasks
+Tooling writen in python/bash/c for doing a range of tasks
