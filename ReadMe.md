@@ -1,4 +1,4 @@
-# Werkzeug tooling library
+# Werkzeug library
 
 !["tools"](images/tools.png)
 
